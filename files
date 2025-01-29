@@ -1,12 +1,1 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Page 2</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="robots" content="index,follow">
-  <meta name="generator" content="GrapesJS Studio">
-  <link rel="stylesheet" href="./style.css">
-  </head>
-  <body><div>New Page 2</div></body>
-</html>
+{"assets":[],"styles":[{"selectors":["#i8mw"],"style":{"__background-type":"unset","background-image":"unset","background-position":"unset","background-size":"unset","background-repeat":"unset","background-attachment":"unset","background-origin":"unset"},"wrapper":1},{"selectors":["gjs-grid-column"],"style":{"flex":"1 1 0%","padding":"5px 0"},"group":"cmp:gridColumn"},{"selectors":["gjs-grid-row"],"style":{"display":"flex","justify-content":"flex-start","align-items":"stretch","flex-direction":"row","min-height":"auto","padding":"10px 0"},"group":"cmp:gridRow"},{"selectors":["gjs-grid-row"],"style":{"flex-direction":"column"},"mediaText":"(max-width: 992px)","atRuleType":"media","group":"cmp:gridRow"},{"selectors":["#iqx9j"],"style":{"padding":"10px"}}],"pages":[{"frames":[{"component":{"type":"wrapper","attributes":{"id":"i8mw"},"head":{"type":"head"},"docEl":{"tagName":"html"}},"id":"x9rooQiz8gs24p90"}],"type":"main","id":"JehAwXqE0cNcaQg4"},{"name":"Page 2","frames":[{"component":{"type":"wrapper","components":[{"type":"text","components":[{"type":"textnode","content":"New Page 2"}]}],"head":{"type":"head"},"docEl":{"tagName":"html"}},"id":"BXpr0ySyJzRycBp6"}],"id":"M6DDTAG1rwWsswQEa"},{"name":"Page 3","frames":[{"component":{"type":"wrapper","attributes":{"id":"imiu"},"components":[{"type":"text","attributes":{"id":"i25oo"},"components":[{"type":"textnode","content":"New Page 3"}]},{"type":"gridRow","classes":["gjs-grid-row"],"attributes":{"id":"i2v72"},"components":[{"type":"gridColumn","classes":["gjs-grid-column"],"attributes":{},"center-content":""}]},{"type":"text","attributes":{"id":"iqx9j"},"components":[{"type":"textnode","content":"grapetest"}]}],"head":{"type":"head"},"docEl":{"tagName":"html"}},"id":"xyyk2b32iHXCg9tV"}],"id":"vOxuzDyJf4eXi9hJfG"}],"symbols":[],"dataSources":[]}
